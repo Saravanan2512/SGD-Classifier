@@ -55,7 +55,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/7117cd71-a0ee-48d2-99fb-26a1aa2b9f42)
 
 
-![prediction of iris species using SGD Classifier](sam.png)
+
 
 
 ## Result:
